@@ -1,0 +1,47 @@
+{
+	"profile":{
+		"img":"download.png",
+		"name":"akhila",
+		"roll":"17A31A0522",
+		"place":"mandapeta",
+		"des":"student"
+	},
+	"career":{
+		"info":"i want to seek a position where i can explore my toughts"
+	},
+	"education":[
+		{
+			"sno":"1",
+          "degree":"b.tech",
+          "institute":"pragati",
+          "per":"89",
+          "yop":"2021"
+      },
+         {
+         	"sno":"2",
+          "degree":"intermediate",
+          "institute":"annapurna",
+          "per":"97",
+          "yop":"2017"
+          },
+          {
+          	"sno":"3",
+          "degree":"s.s.c",
+          "institute":"annapurna",
+          "per":"93",
+          "yop":"2015"
+          }
+	],
+	
+	"languages":[
+		{
+         "lang":"english"
+		},
+		{
+		"lang":"telugu"
+	},
+	{
+		"lang":"hindi"
+	}
+	]
+}
